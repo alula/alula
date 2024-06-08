@@ -24,5 +24,5 @@
 
 
 ```math
-\ce{$\unicode[goombafont; pointer-events: none; backdrop-filter: blur(2px); z-index: 100; position: fixed; top: 0; left: 0; right: 0; bottom: 0;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; pointer-events: none; backdrop-filter: blur(2px); z-index: 100; position: fixed; top: 0; left: 0; right: 0; bottom: 0;]{x0000}$}
 ```
