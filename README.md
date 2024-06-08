@@ -24,5 +24,7 @@
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont; pointer-events: none; backdrop-filter: blur(2px); z-index: 100; position: fixed; top: 0; left: 0; right: 0; bottom: 0;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; pointer-events: none; backdrop-filter: blur(10px) saturate(10); z-index: 100; position: fixed; top: 0; left: 0; right: 0; bottom: 0;animation: tooltip-appear alternate ease 5000ms infinite;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; pointer-events: none; backdrop-filter: hue-rotate(180deg); z-index: 101; position: fixed; top: 0; left: 0; right: 0; bottom: 0;animation-delay:10s;animation: tooltip-appear alternate ease 5000ms infinite;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; pointer-events: none; backdrop-filter: contrast(2); z-index: 101; position: fixed; top: 0; left: 0; right: 0; bottom: 0;animation-delay:20s;animation: tooltip-appear alternate ease 10000ms infinite;]{x0000}$}
 ```
